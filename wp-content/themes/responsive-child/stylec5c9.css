@@ -1,0 +1,461 @@
+/*
+ Theme Name:   Responsive Child
+ Description:  Responsive Child Theme
+ Author:       SnapUPC
+ Template:     responsive
+ Version:      1.1.9
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+*/
+
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+	display: block!important;
+}
+
+#ship-to-different-address input[type="checkbox"] {
+	height: auto;
+}	
+
+#ship-to-different-address {
+	font-size: 16px;
+	margin-bottom: -11px;
+}
+
+.woocommerce-shipping-fields .shipping_address {
+	margin-top: 50px;
+}
+
+#customer_details .col-2 {
+	border: unset;
+}
+
+img.custom-logo {
+    max-height: 90px;
+}
+
+
+@media (max-width: 768px) {
+#header_section {
+    max-height: 117px;
+}
+}
+
+
+.home_center>div {
+    padding: 20px 35px 0px 25px;
+    width: 50%;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    background-color: #fff;
+    float: left;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.home_center:after {
+    clear:both;
+    display:table;
+    content:'';
+}
+
+.home_center {
+    display: inline-flex;
+}
+
+.home_center_2 button, .home_center_2 input {
+    width: 100%;
+}
+
+.home_center_2 {
+    display: inline-block;
+}
+
+div.home_center_2 h2 {
+    font-size: 1.0em;
+    font-weight: 700;
+}
+
+#footer-menu-container {
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
+#subscriber-email {
+    width: 220px;
+    color: black;
+}
+
+#subscribe-form br {
+    display: none;
+}
+
+#subscribe-form div {
+    display: inline-block;
+}
+
+#sub-submit {
+    width: auto;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    border: none;
+}
+
+#subscribe-form {
+    margin-top: 5px;
+}
+
+#subscribe-form label {
+    display: none;
+}
+
+@media (max-width: 1210px) {
+    .home_center>div {
+        width: 100%;
+    }
+    .home_center {
+        display: inline-grid;
+    }
+    
+    #footer-menu-container {
+        width: 100%;
+    }
+    
+    .home_center_2 {
+        text-align: center;
+        display: block;
+    }
+}
+
+#featured-image {
+    margin-top: 3%;
+}
+
+.featured-title {
+    padding-top:25px;
+}
+
+#featured-content h1 {
+    font-size: 40px;
+}
+
+#featured-content h2 {
+    font-size: 32px;
+}
+
+#featured-content p {
+    margin-top: 10px;
+}
+
+#featured {
+    padding-bottom: 0px;
+}
+
+#calc_div {
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    padding-bottom: 40px;
+    width: 99.893617021277%;
+}
+
+#calc_div button {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#codesNumber {
+	font-size: 16px;
+	text-align: center;
+	padding: 16px 36px !important;
+	border-radius: 3px;
+	max-width: 220px;
+    margin: 0;
+    margin-right: 20px;
+    margin-bottom: 7px;
+    height: 61px;
+	-webkit-transition: all .15s ease;
+	-moz-transition: all .15s ease;
+	-ms-transition: all .15s ease;
+	-o-transition: all .15s ease;
+	transition: all .15s ease;
+    border-color: black;
+}
+
+.priceResultContainer .banner-1-span {
+    margin-top: 8px;
+}
+
+.priceResultContainer .button {
+    font-size: 18px;
+}
+
+#calc_div button.calculate {
+    background-color: #FFA500 !important;
+}
+
+
+/* checkout stars */
+
+.quick-evaluate__label {
+ display:block;
+ color:#73738f;
+ margin:0;
+ word-break:break-word;
+ font-weight:400;
+ font-size:14px;
+ font-size:.875rem;
+ line-height:20px;
+ line-height:1.25rem
+}
+.quick-evaluate__rating-evaluate {
+ margin:0
+}
+
+.quick-evaluate__rating {
+    margin-bottom: 1.6em;
+    display: inline-block;
+}
+
+.star-rating-tp {
+ width:100%;
+ display:flex
+}
+.star-rating--small {
+ width:88px;
+ height:16px
+}
+.star-rating--medium {
+ width:108px;
+ height:20px
+}
+.star-rating--large {
+ width:216px;
+ height:40px
+}
+.star-rating-tp img {
+ max-width:100%;
+ width:100%
+}
+.star-selector[data-v-334b6db8] {
+ cursor:pointer
+}
+.star-selector--disabled[data-v-334b6db8] {
+ cursor:not-allowed
+}
+.star-selector--disabled .star-rating-tp[data-v-334b6db8] {
+ opacity:.3
+}
+
+.star-selector[data-v-334b6db8] {
+ cursor:pointer
+}
+.star-selector__selector[data-v-334b6db8] {
+ position:absolute; width:216px; height:40px;
+}
+.star-selector--disabled[data-v-334b6db8] {
+ cursor:not-allowed
+}
+.star-selector--disabled .star-rating[data-v-334b6db8] {
+ opacity:.3
+}
+
+.star[data-v-334b6db8] {
+ display:inline-block;
+ margin:0;
+ outline:0;
+ border:0;
+ width:44px;
+ height:40px !important;
+ cursor:pointer;
+ -webkit-appearance:none;
+ -moz-appearance:none;
+ appearance:none
+}
+
+input.star[data-v-334b6db8]:focus {
+    background-color: inherit;
+}
+
+.star[data-v-334b6db8]:first-of-type,
+.star[data-v-334b6db8]:last-of-type {
+ width:42px;
+}
+.star[data-v-334b6db8]::-ms-check {
+ opacity:0
+}
+
+/* */
+
+#cc-expire-month, #cc-expire-year {
+    border-color: #c7c1c6;
+    border-width: 1px;
+    border-style: solid;
+    margin-bottom: 5px;
+    background-color: white;
+    height: 45px;
+    font-size: 1.3em;
+    margin-right: 5px;
+}
+
+select#cc-expire-month, select#cc-expire-year {
+    color: #777;
+}
+
+#cc-expire-month option:not(:first-of-type), #cc-expire-year option:not(:first-of-type) {
+    color: black;
+}
+
+label[for=paypal_pro-card-cvc] {
+    white-space: nowrap;
+}
+
+.testimonialsSlider .wpmslider-viewport {
+    background-color: white;
+    border-radius: 4px;
+    border: 1px solid #e5e5e5;
+}
+
+#wpcf7-f25-p21-o1 {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+#wpcf7-f25-p21-o1 input, #wpcf7-f25-p21-o1 textarea {
+    width: 100%;
+    font-size: 16px;
+    border-radius: 3px;
+    border-color: #000;
+    color: black;
+    transition: all 0.15s ease-in-out;
+}
+
+#wpcf7-f25-p21-o1 input:focus, #wpcf7-f25-p21-o1 textarea:focus {
+    box-shadow: 0 0 5px #2090d6;
+}
+
+#wpcf7-f25-p21-o1 input.wpcf7-not-valid {
+    border-color: #dc3232;
+}
+
+#wpcf7-f25-p21-o1 input.wpcf7-not-valid:focus{
+    box-shadow: 0 0 5px #dc3232;
+}
+
+#wpcf7-f25-p21-o1 p {
+    font-size: 18px;
+}
+
+@media (max-width: 1080px) {
+    #wpcf7-f25-p21-o1 {
+        width: 100%;
+    }
+}
+
+
+.checkDigitForm input {
+	font-size: 16px;
+	text-align: center;
+	padding: 16px 36px !important;
+	border-radius: 3px;
+	max-width: 220px;
+    margin: 0;
+    margin-right: 20px;
+    margin-bottom: 7px;
+    height: 55px;
+	-webkit-transition: all .15s ease;
+	-moz-transition: all .15s ease;
+	-ms-transition: all .15s ease;
+	-o-transition: all .15s ease;
+	transition: all .15s ease;
+    border-color: black;
+}
+
+.checkDigitForm input:focus {
+	border-color: black;
+}
+
+.checkDigitForm button {
+	cursor: pointer;
+}
+
+.paypalImageContainer {
+    padding-bottom: 0px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    width: 99.893617021277%;
+}
+
+.paypalImageContainer img {
+    height: 150px;
+}
+
+.paypalImageContainerInCart {
+    width: 50%;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .paypalImageContainerInCart {
+        width: 100%;
+    }
+}
+
+.ytVideoWrapper {
+    position: relative;
+}
+
+.ytVideoWrapper .ctrlHide{
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    z-index: 10;
+}
+
+#content-woocommerce {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.related.products ul.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.related.products ul.products li.product a img {
+    box-shadow: none;
+    object-fit: none;
+    object-position: center;
+    height: 50%;
+}
+
+.related.products ul.products li.product {
+    padding: 0.5%;
+}
+
+.related.products ul.products .button {
+    
+}
+
+.related.products ul.products h2 {
+    min-height: 60px;
+}
+
+@media (max-width: 900px) {
+    #content-woocommerce .related.products ul.products li.product {
+        width: 44.1%;
+    }
+}
+
+@media (max-width: 600px) {
+    #content-woocommerce .related.products ul.products li.product {
+        width: 88.2%;
+    }
+}
+

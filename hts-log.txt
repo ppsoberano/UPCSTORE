@@ -1,0 +1,370 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Jul 2022 01:41:42 at https://upcs.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://upcs.com/ -O1 "C:\My Web Sites\https___upcs.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:41:57	Error: 	"Method Not Allowed" (405) at link https://upcs.com/xmlrpc.php (from https://upcs.com/)
+01:42:08	Warning: 	Moved Permanently for upcs.com/robots.txt
+01:42:08	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/robots.txt and https://upcs.com/robots.txt
+01:42:08	Warning: 	Warning moved treated for upcs.com/robots.txt (real one is https://upcs.com/robots.txt)
+01:42:08	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=7195DD754BCC6F42FF5FFF91537B0C0D
+01:42:08	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=7195DD754BCC6F42FF5FFF91537B0C0D and https://upcs.com/?wordfence_lh=1&hid=7195DD754BCC6F42FF5FFF91537B0C0D
+01:42:08	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=7195DD754BCC6F42FF5FFF91537B0C0D to https://upcs.com/?wordfence_lh=1&hid=7195DD754BCC6F42FF5FFF91537B0C0D
+01:42:41	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205
+01:42:41	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205 to https://upcs.com/cart/
+01:43:21	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=BF41A26F528E07F816E1CD7393D22517
+01:43:21	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=BF41A26F528E07F816E1CD7393D22517 and https://upcs.com/?wordfence_lh=1&hid=BF41A26F528E07F816E1CD7393D22517
+01:43:21	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=BF41A26F528E07F816E1CD7393D22517 to https://upcs.com/?wordfence_lh=1&hid=BF41A26F528E07F816E1CD7393D22517
+01:43:23	Warning: 	Moved Permanently for https://upcs.com/?p=10
+01:43:23	Warning: 	File has moved from https://upcs.com/?p=10 to https://upcs.com/buy-upc-now/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=5
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=5 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=10
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=10 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=25
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=25 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=50
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=50 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=100
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=100 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=250
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=250 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=300
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=300 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=400
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=400 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=500
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=500 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=750
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=750 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=1000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=1000 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=2000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=2000 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=3000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=3000 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=4000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=4000 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=5000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=5000 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=8000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=8000 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=10000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=10000 to https://upcs.com/cart/
+01:43:23	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=15000
+01:43:23	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=205&quantity=15000 to https://upcs.com/cart/
+01:43:23	Warning: 	Moved Permanently for https://upcs.com/?p=139
+01:43:23	Warning: 	File has moved from https://upcs.com/?p=139 to https://upcs.com/amazon-upc-codes/
+01:43:23	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=CB6AC4818F7F98D4898A01595C1AB14A
+01:43:23	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=CB6AC4818F7F98D4898A01595C1AB14A and https://upcs.com/?wordfence_lh=1&hid=CB6AC4818F7F98D4898A01595C1AB14A
+01:43:23	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=CB6AC4818F7F98D4898A01595C1AB14A to https://upcs.com/?wordfence_lh=1&hid=CB6AC4818F7F98D4898A01595C1AB14A
+01:43:32	Warning: 	Moved Permanently for https://upcs.com/?p=160563
+01:43:32	Warning: 	File has moved from https://upcs.com/?p=160563 to https://upcs.com/barcode-labels/
+01:43:32	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=346C30E00205851B90855ABF200BC92F
+01:43:32	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=346C30E00205851B90855ABF200BC92F and https://upcs.com/?wordfence_lh=1&hid=346C30E00205851B90855ABF200BC92F
+01:43:32	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=346C30E00205851B90855ABF200BC92F to https://upcs.com/?wordfence_lh=1&hid=346C30E00205851B90855ABF200BC92F
+01:43:52	Warning: 	Moved Permanently for https://upcs.com/?p=85
+01:43:52	Warning: 	File has moved from https://upcs.com/?p=85 to https://upcs.com/buy-barcodes/
+01:43:52	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=E7CA07CB32D0268F691930FA8D3E08E9
+01:43:52	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=E7CA07CB32D0268F691930FA8D3E08E9 and https://upcs.com/?wordfence_lh=1&hid=E7CA07CB32D0268F691930FA8D3E08E9
+01:43:52	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=E7CA07CB32D0268F691930FA8D3E08E9 to https://upcs.com/?wordfence_lh=1&hid=E7CA07CB32D0268F691930FA8D3E08E9
+01:43:53	Warning: 	Moved Permanently for https://upcs.com/?p=58
+01:43:53	Warning: 	File has moved from https://upcs.com/?p=58 to https://upcs.com/frequently-asked-questions/
+01:43:53	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=367D614651DBEF4A8D8C7E1506FA7E4B
+01:43:53	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=367D614651DBEF4A8D8C7E1506FA7E4B and https://upcs.com/?wordfence_lh=1&hid=367D614651DBEF4A8D8C7E1506FA7E4B
+01:43:53	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=367D614651DBEF4A8D8C7E1506FA7E4B to https://upcs.com/?wordfence_lh=1&hid=367D614651DBEF4A8D8C7E1506FA7E4B
+01:43:56	Warning: 	Moved Permanently for https://upcs.com/?p=21
+01:43:56	Warning: 	File has moved from https://upcs.com/?p=21 to https://upcs.com/contact-us/
+01:43:56	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=3B226DAC5D565AA80F53C8A1274B4ACB
+01:43:56	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=3B226DAC5D565AA80F53C8A1274B4ACB and https://upcs.com/?wordfence_lh=1&hid=3B226DAC5D565AA80F53C8A1274B4ACB
+01:43:56	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=3B226DAC5D565AA80F53C8A1274B4ACB to https://upcs.com/?wordfence_lh=1&hid=3B226DAC5D565AA80F53C8A1274B4ACB
+01:44:01	Warning: 	Moved Permanently for https://upcs.com/?p=156682
+01:44:01	Warning: 	File has moved from https://upcs.com/?p=156682 to https://upcs.com/ucc-gs1-settlement/
+01:44:01	Warning: 	Moved Permanently for https://upcs.com/?p=101
+01:44:01	Warning: 	File has moved from https://upcs.com/?p=101 to https://upcs.com/buy-ean-now/
+01:44:01	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=1C65E824D3AA32979D02C5438ECCAA08
+01:44:01	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=1C65E824D3AA32979D02C5438ECCAA08 and https://upcs.com/?wordfence_lh=1&hid=1C65E824D3AA32979D02C5438ECCAA08
+01:44:01	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=1C65E824D3AA32979D02C5438ECCAA08 to https://upcs.com/?wordfence_lh=1&hid=1C65E824D3AA32979D02C5438ECCAA08
+01:44:01	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=254
+01:44:01	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=254 to https://upcs.com/cart/
+01:44:01	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=5
+01:44:01	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=5 to https://upcs.com/cart/
+01:44:01	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=10
+01:44:01	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=10 to https://upcs.com/cart/
+01:44:01	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=25
+01:44:01	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=25 to https://upcs.com/cart/
+01:44:01	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=50
+01:44:01	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=50 to https://upcs.com/cart/
+01:44:01	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=100
+01:44:01	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=100 to https://upcs.com/cart/
+01:44:01	Warning: 	Found for https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=250
+01:44:01	Warning: 	File has moved from https://upcs.com/checkout/?post_type=product&add-to-cart=254&quantity=250 to https://upcs.com/cart/
+01:44:01	Warning: 	Moved Permanently for https://upcs.com/?p=372917
+01:44:01	Warning: 	File has moved from https://upcs.com/?p=372917 to https://upcs.com/buy-gtin-codes/
+01:44:01	Warning: 	Moved Permanently for https://upcs.com/?p=38908
+01:44:01	Warning: 	File has moved from https://upcs.com/?p=38908 to https://upcs.com/ebay-upc-codes/
+01:44:01	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=238A66B4FDBDCF0789B9978271733160
+01:44:01	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=238A66B4FDBDCF0789B9978271733160 and https://upcs.com/?wordfence_lh=1&hid=238A66B4FDBDCF0789B9978271733160
+01:44:01	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=238A66B4FDBDCF0789B9978271733160 to https://upcs.com/?wordfence_lh=1&hid=238A66B4FDBDCF0789B9978271733160
+01:44:03	Warning: 	Moved Permanently for https://upcs.com/?p=177169
+01:44:03	Warning: 	File has moved from https://upcs.com/?p=177169 to https://upcs.com/blog/
+01:44:03	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=5DACF2E7376BEA974C7EBEE1A2C79C94
+01:44:03	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=5DACF2E7376BEA974C7EBEE1A2C79C94 and https://upcs.com/?wordfence_lh=1&hid=5DACF2E7376BEA974C7EBEE1A2C79C94
+01:44:03	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=5DACF2E7376BEA974C7EBEE1A2C79C94 to https://upcs.com/?wordfence_lh=1&hid=5DACF2E7376BEA974C7EBEE1A2C79C94
+01:44:08	Warning: 	Moved Permanently for https://upcs.com/blog/author/admin/
+01:44:08	Warning: 	File has moved from https://upcs.com/blog/author/admin/ to https://upcs.com
+01:44:38	Warning: 	Moved Permanently for https://upcs.com/?p=395275
+01:44:38	Warning: 	File has moved from https://upcs.com/?p=395275 to https://upcs.com/check-digit-calculator/
+01:44:39	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=A8E0658176F7669212D333014E9BAD85
+01:44:39	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=A8E0658176F7669212D333014E9BAD85 and https://upcs.com/?wordfence_lh=1&hid=A8E0658176F7669212D333014E9BAD85
+01:44:39	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=A8E0658176F7669212D333014E9BAD85 to https://upcs.com/?wordfence_lh=1&hid=A8E0658176F7669212D333014E9BAD85
+01:44:40	Warning: 	Moved Permanently for https://upcs.com/?p=18
+01:44:40	Warning: 	File has moved from https://upcs.com/?p=18 to https://upcs.com/11-lowest-price/
+01:44:40	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=4044AA0A1D37CC3BB0A1176CF67BD2F0
+01:44:40	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=4044AA0A1D37CC3BB0A1176CF67BD2F0 and https://upcs.com/?wordfence_lh=1&hid=4044AA0A1D37CC3BB0A1176CF67BD2F0
+01:44:40	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=4044AA0A1D37CC3BB0A1176CF67BD2F0 to https://upcs.com/?wordfence_lh=1&hid=4044AA0A1D37CC3BB0A1176CF67BD2F0
+01:44:42	Warning: 	Moved Permanently for https://upcs.com/?p=45
+01:44:42	Warning: 	File has moved from https://upcs.com/?p=45 to https://upcs.com/policies-terms-conditions/
+01:44:42	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=A0FFE9C1E45E84445AAB67E13AB8AFF4
+01:44:42	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=A0FFE9C1E45E84445AAB67E13AB8AFF4 and https://upcs.com/?wordfence_lh=1&hid=A0FFE9C1E45E84445AAB67E13AB8AFF4
+01:44:42	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=A0FFE9C1E45E84445AAB67E13AB8AFF4 to https://upcs.com/?wordfence_lh=1&hid=A0FFE9C1E45E84445AAB67E13AB8AFF4
+01:45:06	Warning: 	Moved Permanently for https://upcs.com/?p=184
+01:45:06	Warning: 	File has moved from https://upcs.com/?p=184 to https://upcs.com/my-account/
+01:45:06	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=B7F9E6D869A202FBC7D84B9B1501F7D2
+01:45:06	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=B7F9E6D869A202FBC7D84B9B1501F7D2 and https://upcs.com/?wordfence_lh=1&hid=B7F9E6D869A202FBC7D84B9B1501F7D2
+01:45:06	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=B7F9E6D869A202FBC7D84B9B1501F7D2 to https://upcs.com/?wordfence_lh=1&hid=B7F9E6D869A202FBC7D84B9B1501F7D2
+01:45:08	Warning: 	Moved Permanently for https://upcs.com/?p=156980
+01:45:08	Warning: 	File has moved from https://upcs.com/?p=156980 to https://upcs.com/about-us/
+01:45:08	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=F144AE524943AD30055B54D8261B9279
+01:45:08	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=F144AE524943AD30055B54D8261B9279 and https://upcs.com/?wordfence_lh=1&hid=F144AE524943AD30055B54D8261B9279
+01:45:08	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=F144AE524943AD30055B54D8261B9279 to https://upcs.com/?wordfence_lh=1&hid=F144AE524943AD30055B54D8261B9279
+01:45:08	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=BDC883310F532FBA81149CB888ED9069
+01:45:08	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=BDC883310F532FBA81149CB888ED9069 and https://upcs.com/?wordfence_lh=1&hid=BDC883310F532FBA81149CB888ED9069
+01:45:08	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=BDC883310F532FBA81149CB888ED9069 to https://upcs.com/?wordfence_lh=1&hid=BDC883310F532FBA81149CB888ED9069
+01:45:08	Warning: 	Moved Permanently for https://upcs.com/?p=321458
+01:45:08	Warning: 	File has moved from https://upcs.com/?p=321458 to https://upcs.com/blog/you-are-using-upcs-eans-isbns-asins-or-jan-codes-amazon/
+01:45:08	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=63FE6CFCEC6D4D0AF0D1A8F67765F3F4
+01:45:08	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=63FE6CFCEC6D4D0AF0D1A8F67765F3F4 and https://upcs.com/?wordfence_lh=1&hid=63FE6CFCEC6D4D0AF0D1A8F67765F3F4
+01:45:08	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=63FE6CFCEC6D4D0AF0D1A8F67765F3F4 to https://upcs.com/?wordfence_lh=1&hid=63FE6CFCEC6D4D0AF0D1A8F67765F3F4
+01:45:13	Warning: 	Moved Permanently for https://upcs.com/?p=160455
+01:45:13	Warning: 	File has moved from https://upcs.com/?p=160455 to https://upcs.com/blog/common-amazon-errors/
+01:45:13	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=D99E77050030F00BD133BD5E60DEBDA0
+01:45:13	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=D99E77050030F00BD133BD5E60DEBDA0 and https://upcs.com/?wordfence_lh=1&hid=D99E77050030F00BD133BD5E60DEBDA0
+01:45:13	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=D99E77050030F00BD133BD5E60DEBDA0 to https://upcs.com/?wordfence_lh=1&hid=D99E77050030F00BD133BD5E60DEBDA0
+01:45:18	Error: 	"Not Found" (404) at link https://upcs.com/wp-content/uploads/2018/12/Screenshot-2018-12-20-15.56.52.png (from https://upcs.com/how-to-buy-upc-codes-amazon/)
+01:45:18	Warning: 	Moved Permanently for https://upcs.com/?p=79960
+01:45:18	Warning: 	File has moved from https://upcs.com/?p=79960 to https://upcs.com/how-to-buy-upc-codes-amazon/
+01:45:18	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=0231B2CB725DAFC42DD32625BCE4D70C
+01:45:18	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=0231B2CB725DAFC42DD32625BCE4D70C and https://upcs.com/?wordfence_lh=1&hid=0231B2CB725DAFC42DD32625BCE4D70C
+01:45:18	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=0231B2CB725DAFC42DD32625BCE4D70C to https://upcs.com/?wordfence_lh=1&hid=0231B2CB725DAFC42DD32625BCE4D70C
+01:45:19	Warning: 	Moved Permanently for https://upcs.com/?p=160528
+01:45:19	Warning: 	File has moved from https://upcs.com/?p=160528 to https://upcs.com/product/amazon-fnsku-roll/
+01:45:19	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=9DD917326EC5DC08F2FE72C0B8CAD4B2
+01:45:19	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=9DD917326EC5DC08F2FE72C0B8CAD4B2 and https://upcs.com/?wordfence_lh=1&hid=9DD917326EC5DC08F2FE72C0B8CAD4B2
+01:45:19	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=9DD917326EC5DC08F2FE72C0B8CAD4B2 to https://upcs.com/?wordfence_lh=1&hid=9DD917326EC5DC08F2FE72C0B8CAD4B2
+01:45:19	Error: 	"Not Found" (404) at link https://upcs.com/product/blank-barcode-label-roll-1p5-x-p5/ (from https://upcs.com/product/amazon-fnsku-roll/)
+01:45:21	Warning: 	Moved Permanently for https://upcs.com/?p=160630
+01:45:21	Warning: 	File has moved from https://upcs.com/?p=160630 to https://upcs.com/product/printed-barcode-label-rolls/
+01:45:21	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=FEB8489EBCCBB51CE7D75F664CC22305
+01:45:21	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=FEB8489EBCCBB51CE7D75F664CC22305 and https://upcs.com/?wordfence_lh=1&hid=FEB8489EBCCBB51CE7D75F664CC22305
+01:45:21	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=FEB8489EBCCBB51CE7D75F664CC22305 to https://upcs.com/?wordfence_lh=1&hid=FEB8489EBCCBB51CE7D75F664CC22305
+01:45:21	Warning: 	Moved Permanently for https://upcs.com/?p=160639
+01:45:21	Warning: 	File has moved from https://upcs.com/?p=160639 to https://upcs.com/product/printed-barcode-label-sheets-1000-labels/
+01:45:21	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=6BD4BC656F5EE50890E97EAD992E4775
+01:45:21	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=6BD4BC656F5EE50890E97EAD992E4775 and https://upcs.com/?wordfence_lh=1&hid=6BD4BC656F5EE50890E97EAD992E4775
+01:45:21	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=6BD4BC656F5EE50890E97EAD992E4775 to https://upcs.com/?wordfence_lh=1&hid=6BD4BC656F5EE50890E97EAD992E4775
+01:45:22	Warning: 	Moved Permanently for https://upcs.com/?p=160566
+01:45:22	Warning: 	File has moved from https://upcs.com/?p=160566 to https://upcs.com/product/blank-barcode-label-rolls/
+01:45:22	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=DC3E8237C2A2AC7319C0E903EA38A9F0
+01:45:22	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=DC3E8237C2A2AC7319C0E903EA38A9F0 and https://upcs.com/?wordfence_lh=1&hid=DC3E8237C2A2AC7319C0E903EA38A9F0
+01:45:22	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=DC3E8237C2A2AC7319C0E903EA38A9F0 to https://upcs.com/?wordfence_lh=1&hid=DC3E8237C2A2AC7319C0E903EA38A9F0
+01:45:25	Warning: 	Moved Permanently for https://upcs.com/?p=160601
+01:45:25	Warning: 	File has moved from https://upcs.com/?p=160601 to https://upcs.com/product/blank-barcode-label-sheets/
+01:45:26	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=89735879F5A8C6D5AE257D0FF5B432BE
+01:45:26	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=89735879F5A8C6D5AE257D0FF5B432BE and https://upcs.com/?wordfence_lh=1&hid=89735879F5A8C6D5AE257D0FF5B432BE
+01:45:26	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=89735879F5A8C6D5AE257D0FF5B432BE to https://upcs.com/?wordfence_lh=1&hid=89735879F5A8C6D5AE257D0FF5B432BE
+01:47:39	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=B799E1A0745F26EB117E2BF6400212C5
+01:47:39	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=B799E1A0745F26EB117E2BF6400212C5 and https://upcs.com/?wordfence_lh=1&hid=B799E1A0745F26EB117E2BF6400212C5
+01:47:39	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=B799E1A0745F26EB117E2BF6400212C5 to https://upcs.com/?wordfence_lh=1&hid=B799E1A0745F26EB117E2BF6400212C5
+01:47:40	Warning: 	Moved Permanently for https://upcs.com/?p=92286
+01:47:40	Warning: 	File has moved from https://upcs.com/?p=92286 to https://upcs.com/coupon/
+01:47:40	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=3421FEBBE4820E8EF173207B8A5CE037
+01:47:40	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=3421FEBBE4820E8EF173207B8A5CE037 and https://upcs.com/?wordfence_lh=1&hid=3421FEBBE4820E8EF173207B8A5CE037
+01:47:40	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=3421FEBBE4820E8EF173207B8A5CE037 to https://upcs.com/?wordfence_lh=1&hid=3421FEBBE4820E8EF173207B8A5CE037
+01:47:41	Warning: 	Moved Permanently for https://upcs.com/?p=182
+01:47:41	Warning: 	File has moved from https://upcs.com/?p=182 to https://upcs.com/cart/
+01:47:41	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=5AF9986C9F3ACF0A03EC946E48FA9AFF
+01:47:41	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=5AF9986C9F3ACF0A03EC946E48FA9AFF and https://upcs.com/?wordfence_lh=1&hid=5AF9986C9F3ACF0A03EC946E48FA9AFF
+01:47:41	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=5AF9986C9F3ACF0A03EC946E48FA9AFF to https://upcs.com/?wordfence_lh=1&hid=5AF9986C9F3ACF0A03EC946E48FA9AFF
+01:47:45	Warning: 	Found for https://upcs.com/cart/?remove_item=ae9d93724044527afa08daddccbd8da0&_wpnonce=468bb631be
+01:47:45	Warning: 	File has moved from https://upcs.com/cart/?remove_item=ae9d93724044527afa08daddccbd8da0&_wpnonce=468bb631be to http://upcs.com/cart/?removed_item=1
+01:47:55	Warning: 	Moved Permanently for https://upcs.com/?p=400715
+01:47:55	Warning: 	File has moved from https://upcs.com/?p=400715 to https://upcs.com/blog/barcodes-for-music/
+01:47:55	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=3C0B60DE58524E6E02094B0E7AB46C5A
+01:47:55	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=3C0B60DE58524E6E02094B0E7AB46C5A and https://upcs.com/?wordfence_lh=1&hid=3C0B60DE58524E6E02094B0E7AB46C5A
+01:47:55	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=3C0B60DE58524E6E02094B0E7AB46C5A to https://upcs.com/?wordfence_lh=1&hid=3C0B60DE58524E6E02094B0E7AB46C5A
+01:47:56	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=CDA92416AEFBDF4108F889DA364DD9ED
+01:47:56	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=CDA92416AEFBDF4108F889DA364DD9ED and https://upcs.com/?wordfence_lh=1&hid=CDA92416AEFBDF4108F889DA364DD9ED
+01:47:56	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=CDA92416AEFBDF4108F889DA364DD9ED to https://upcs.com/?wordfence_lh=1&hid=CDA92416AEFBDF4108F889DA364DD9ED
+01:47:57	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=14622068331F2516F12FF81B76428543
+01:47:57	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=14622068331F2516F12FF81B76428543 and https://upcs.com/?wordfence_lh=1&hid=14622068331F2516F12FF81B76428543
+01:47:57	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=14622068331F2516F12FF81B76428543 to https://upcs.com/?wordfence_lh=1&hid=14622068331F2516F12FF81B76428543
+01:48:06	Warning: 	Moved Permanently for https://upcs.com/?p=373374
+01:48:06	Warning: 	File has moved from https://upcs.com/?p=373374 to https://upcs.com/blog/barcodes-for-books-what-is-an-isbn-for-books/
+01:48:06	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=EF4406B718B69109FFF693CD383C7AA0
+01:48:06	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=EF4406B718B69109FFF693CD383C7AA0 and https://upcs.com/?wordfence_lh=1&hid=EF4406B718B69109FFF693CD383C7AA0
+01:48:06	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=EF4406B718B69109FFF693CD383C7AA0 to https://upcs.com/?wordfence_lh=1&hid=EF4406B718B69109FFF693CD383C7AA0
+01:48:06	Warning: 	Moved Permanently for https://upcs.com/?p=372925
+01:48:06	Warning: 	File has moved from https://upcs.com/?p=372925 to https://upcs.com/blog/skus-vs-upcs-differences-roles-in-inventory-management-and-which-one-to-use/
+01:48:06	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=15C7206F7B624DB9B32F4A0B90B7F36E
+01:48:06	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=15C7206F7B624DB9B32F4A0B90B7F36E and https://upcs.com/?wordfence_lh=1&hid=15C7206F7B624DB9B32F4A0B90B7F36E
+01:48:06	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=15C7206F7B624DB9B32F4A0B90B7F36E to https://upcs.com/?wordfence_lh=1&hid=15C7206F7B624DB9B32F4A0B90B7F36E
+01:48:06	Warning: 	Moved Permanently for https://upcs.com/?p=380051
+01:48:06	Warning: 	File has moved from https://upcs.com/?p=380051 to https://upcs.com/blog/universal-product-number-upn-for-medical-pharmaceutical-surgical-products/
+01:48:07	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=3E989A0C8E1799E65F160CD9D791319D
+01:48:07	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=3E989A0C8E1799E65F160CD9D791319D and https://upcs.com/?wordfence_lh=1&hid=3E989A0C8E1799E65F160CD9D791319D
+01:48:07	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=3E989A0C8E1799E65F160CD9D791319D to https://upcs.com/?wordfence_lh=1&hid=3E989A0C8E1799E65F160CD9D791319D
+01:48:07	Warning: 	Moved Permanently for https://upcs.com/?p=373372
+01:48:07	Warning: 	File has moved from https://upcs.com/?p=373372 to https://upcs.com/blog/what-is-a-master-carton-scc-14-code/
+01:48:07	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=633063E57A04EC2A8A44CACC596157F2
+01:48:07	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=633063E57A04EC2A8A44CACC596157F2 and https://upcs.com/?wordfence_lh=1&hid=633063E57A04EC2A8A44CACC596157F2
+01:48:07	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=633063E57A04EC2A8A44CACC596157F2 to https://upcs.com/?wordfence_lh=1&hid=633063E57A04EC2A8A44CACC596157F2
+01:50:24	Warning: 	Moved Permanently for https://upcs.com/?p=372826
+01:50:24	Warning: 	File has moved from https://upcs.com/?p=372826 to https://upcs.com/blog/how-to-purchase-upc-codes-to-sell-in-walmart/
+01:50:24	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=55C676DE8EE5DAD0D4C34AC77B3D0E1B
+01:50:24	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=55C676DE8EE5DAD0D4C34AC77B3D0E1B and https://upcs.com/?wordfence_lh=1&hid=55C676DE8EE5DAD0D4C34AC77B3D0E1B
+01:50:24	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=55C676DE8EE5DAD0D4C34AC77B3D0E1B to https://upcs.com/?wordfence_lh=1&hid=55C676DE8EE5DAD0D4C34AC77B3D0E1B
+01:50:25	Warning: 	Moved Permanently for https://upcs.com/?p=372828
+01:50:25	Warning: 	File has moved from https://upcs.com/?p=372828 to https://upcs.com/blog/how-many-digits-are-in-a-upc-code/
+01:50:25	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=445B8517E1B333635B11F2A48B001038
+01:50:25	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=445B8517E1B333635B11F2A48B001038 and https://upcs.com/?wordfence_lh=1&hid=445B8517E1B333635B11F2A48B001038
+01:50:25	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=445B8517E1B333635B11F2A48B001038 to https://upcs.com/?wordfence_lh=1&hid=445B8517E1B333635B11F2A48B001038
+01:50:25	Warning: 	Moved Permanently for https://upcs.com/?p=367896
+01:50:25	Warning: 	File has moved from https://upcs.com/?p=367896 to https://upcs.com/blog/snapupc-com-is-now-upcs-com/
+01:50:25	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=A621B70F869B9EFA1FE3922D7DBB132F
+01:50:25	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=A621B70F869B9EFA1FE3922D7DBB132F and https://upcs.com/?wordfence_lh=1&hid=A621B70F869B9EFA1FE3922D7DBB132F
+01:50:25	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=A621B70F869B9EFA1FE3922D7DBB132F to https://upcs.com/?wordfence_lh=1&hid=A621B70F869B9EFA1FE3922D7DBB132F
+01:50:25	Warning: 	Moved Permanently for https://upcs.com/?p=347964
+01:50:25	Warning: 	File has moved from https://upcs.com/?p=347964 to https://upcs.com/blog/where-to-buy-amazon-upc-codes/
+01:50:25	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=81B011EA9FB021CAA0EEA61D7842183E
+01:50:25	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=81B011EA9FB021CAA0EEA61D7842183E and https://upcs.com/?wordfence_lh=1&hid=81B011EA9FB021CAA0EEA61D7842183E
+01:50:25	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=81B011EA9FB021CAA0EEA61D7842183E to https://upcs.com/?wordfence_lh=1&hid=81B011EA9FB021CAA0EEA61D7842183E
+01:52:43	Warning: 	Moved Permanently for https://upcs.com/?p=347966
+01:52:43	Warning: 	File has moved from https://upcs.com/?p=347966 to https://upcs.com/blog/how-do-i-look-up-a-upc-code/
+01:52:43	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=93277E6D49455EBEC6F7D48618E739B9
+01:52:43	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=93277E6D49455EBEC6F7D48618E739B9 and https://upcs.com/?wordfence_lh=1&hid=93277E6D49455EBEC6F7D48618E739B9
+01:52:43	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=93277E6D49455EBEC6F7D48618E739B9 to https://upcs.com/?wordfence_lh=1&hid=93277E6D49455EBEC6F7D48618E739B9
+01:52:43	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=B81E8B33A88455227E36C38DDBE77B77
+01:52:43	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=B81E8B33A88455227E36C38DDBE77B77 and https://upcs.com/?wordfence_lh=1&hid=B81E8B33A88455227E36C38DDBE77B77
+01:52:43	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=B81E8B33A88455227E36C38DDBE77B77 to https://upcs.com/?wordfence_lh=1&hid=B81E8B33A88455227E36C38DDBE77B77
+01:52:50	Warning: 	Moved Permanently for https://upcs.com/?p=211
+01:52:50	Warning: 	File has moved from https://upcs.com/?p=211 to https://upcs.com/affiliate-area/
+01:52:50	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=7514FC8B0440CDCD721F333F44987C71
+01:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=7514FC8B0440CDCD721F333F44987C71 and https://upcs.com/?wordfence_lh=1&hid=7514FC8B0440CDCD721F333F44987C71
+01:52:50	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=7514FC8B0440CDCD721F333F44987C71 to https://upcs.com/?wordfence_lh=1&hid=7514FC8B0440CDCD721F333F44987C71
+01:52:52	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=CDCF24CA8EF337DFD6B1CE11151CE45B
+01:52:52	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=CDCF24CA8EF337DFD6B1CE11151CE45B and https://upcs.com/?wordfence_lh=1&hid=CDCF24CA8EF337DFD6B1CE11151CE45B
+01:52:52	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=CDCF24CA8EF337DFD6B1CE11151CE45B to https://upcs.com/?wordfence_lh=1&hid=CDCF24CA8EF337DFD6B1CE11151CE45B
+01:52:52	Warning: 	Moved Permanently for https://upcs.com/?p=321425
+01:52:52	Warning: 	File has moved from https://upcs.com/?p=321425 to https://upcs.com/blog/how-do-i-buy-a-upc-code-for-amazon/
+01:52:52	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=2FB7B3E219EA12AD711C855161100791
+01:52:52	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=2FB7B3E219EA12AD711C855161100791 and https://upcs.com/?wordfence_lh=1&hid=2FB7B3E219EA12AD711C855161100791
+01:52:52	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=2FB7B3E219EA12AD711C855161100791 to https://upcs.com/?wordfence_lh=1&hid=2FB7B3E219EA12AD711C855161100791
+01:52:52	Warning: 	Moved Permanently for https://upcs.com/?p=321429
+01:52:52	Warning: 	File has moved from https://upcs.com/?p=321429 to https://upcs.com/blog/how-much-are-upc-codes/
+01:52:52	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=A9716BACC46F30A565AC2929B2ED72F3
+01:52:52	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=A9716BACC46F30A565AC2929B2ED72F3 and https://upcs.com/?wordfence_lh=1&hid=A9716BACC46F30A565AC2929B2ED72F3
+01:52:52	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=A9716BACC46F30A565AC2929B2ED72F3 to https://upcs.com/?wordfence_lh=1&hid=A9716BACC46F30A565AC2929B2ED72F3
+01:52:52	Warning: 	Moved Permanently for https://upcs.com/?p=132695
+01:52:52	Warning: 	File has moved from https://upcs.com/?p=132695 to https://upcs.com/blog/how-to-buy-upc-codes-barcodes/
+01:52:52	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=E10289977168E1A3A3170873629ABDAE
+01:52:52	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=E10289977168E1A3A3170873629ABDAE and https://upcs.com/?wordfence_lh=1&hid=E10289977168E1A3A3170873629ABDAE
+01:52:52	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=E10289977168E1A3A3170873629ABDAE to https://upcs.com/?wordfence_lh=1&hid=E10289977168E1A3A3170873629ABDAE
+01:55:11	Warning: 	Moved Permanently for https://upcs.com/?p=157916
+01:55:11	Warning: 	File has moved from https://upcs.com/?p=157916 to https://upcs.com/blog/why-buy-from-snapupc/
+01:55:11	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=DEA4077CC357B46A12AFC2E30D51238F
+01:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=DEA4077CC357B46A12AFC2E30D51238F and https://upcs.com/?wordfence_lh=1&hid=DEA4077CC357B46A12AFC2E30D51238F
+01:55:11	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=DEA4077CC357B46A12AFC2E30D51238F to https://upcs.com/?wordfence_lh=1&hid=DEA4077CC357B46A12AFC2E30D51238F
+01:55:11	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=42C0970859BEF4811D59595AD42679EB
+01:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=42C0970859BEF4811D59595AD42679EB and https://upcs.com/?wordfence_lh=1&hid=42C0970859BEF4811D59595AD42679EB
+01:55:11	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=42C0970859BEF4811D59595AD42679EB to https://upcs.com/?wordfence_lh=1&hid=42C0970859BEF4811D59595AD42679EB
+01:55:11	Warning: 	Moved Permanently for https://upcs.com/?p=160620
+01:55:11	Warning: 	File has moved from https://upcs.com/?p=160620 to https://upcs.com/product/blank-label-tags-500/
+01:55:11	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=7E56BF00E0C85E11190705F1D57DA5E5
+01:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=7E56BF00E0C85E11190705F1D57DA5E5 and https://upcs.com/?wordfence_lh=1&hid=7E56BF00E0C85E11190705F1D57DA5E5
+01:55:11	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=7E56BF00E0C85E11190705F1D57DA5E5 to https://upcs.com/?wordfence_lh=1&hid=7E56BF00E0C85E11190705F1D57DA5E5
+01:55:11	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=D4C4A1AD0EA062E717B83557AE7E348D
+01:55:11	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=D4C4A1AD0EA062E717B83557AE7E348D and https://upcs.com/?wordfence_lh=1&hid=D4C4A1AD0EA062E717B83557AE7E348D
+01:55:11	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=D4C4A1AD0EA062E717B83557AE7E348D to https://upcs.com/?wordfence_lh=1&hid=D4C4A1AD0EA062E717B83557AE7E348D
+01:57:30	Warning: 	Moved Permanently for upcs.com/cart/?removed_item=1
+01:57:30	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/cart/?removed_item=1 and https://upcs.com/cart/?removed_item=1
+01:57:30	Warning: 	File has moved from upcs.com/cart/?removed_item=1 to https://upcs.com/cart/?removed_item=1
+01:57:30	Warning: 	Moved Permanently for https://upcs.com/?p=205
+01:57:30	Warning: 	File has moved from https://upcs.com/?p=205 to https://upcs.com/product/upc-code/
+01:57:30	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=9ADB11AA417EE04068876E9099BE4B48
+01:57:30	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=9ADB11AA417EE04068876E9099BE4B48 and https://upcs.com/?wordfence_lh=1&hid=9ADB11AA417EE04068876E9099BE4B48
+01:57:30	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=9ADB11AA417EE04068876E9099BE4B48 to https://upcs.com/?wordfence_lh=1&hid=9ADB11AA417EE04068876E9099BE4B48
+01:57:30	Warning: 	Found for https://upcs.com/cart/?undo_item=ae9d93724044527afa08daddccbd8da0&_wpnonce=468bb631be
+01:57:30	Warning: 	File has moved from https://upcs.com/cart/?undo_item=ae9d93724044527afa08daddccbd8da0&_wpnonce=468bb631be to http://upcs.com/product/upc-code/
+01:57:32	Warning: 	Moved Permanently for https://upcs.com/?p=183
+01:57:32	Warning: 	File has moved from https://upcs.com/?p=183 to https://upcs.com/checkout/
+01:57:32	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=C7B29403A7EC32AA53FFEF8D81129301
+01:57:32	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=C7B29403A7EC32AA53FFEF8D81129301 and https://upcs.com/?wordfence_lh=1&hid=C7B29403A7EC32AA53FFEF8D81129301
+01:57:32	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=C7B29403A7EC32AA53FFEF8D81129301 to https://upcs.com/?wordfence_lh=1&hid=C7B29403A7EC32AA53FFEF8D81129301
+01:57:33	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=01BB390FACD05AE6C8EBDC91439CFE3C
+01:57:33	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=01BB390FACD05AE6C8EBDC91439CFE3C and https://upcs.com/?wordfence_lh=1&hid=01BB390FACD05AE6C8EBDC91439CFE3C
+01:57:33	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=01BB390FACD05AE6C8EBDC91439CFE3C to https://upcs.com/?wordfence_lh=1&hid=01BB390FACD05AE6C8EBDC91439CFE3C
+01:57:33	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=3E56AE5123F70BB6F7F5304DA61D5AC1
+01:57:33	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=3E56AE5123F70BB6F7F5304DA61D5AC1 and https://upcs.com/?wordfence_lh=1&hid=3E56AE5123F70BB6F7F5304DA61D5AC1
+01:57:33	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=3E56AE5123F70BB6F7F5304DA61D5AC1 to https://upcs.com/?wordfence_lh=1&hid=3E56AE5123F70BB6F7F5304DA61D5AC1
+01:57:49	Warning: 	Moved Permanently for https://upcs.com/?p=328211
+01:57:49	Warning: 	File has moved from https://upcs.com/?p=328211 to https://upcs.com/blog/will-my-upc-codes-ever-expire/
+01:57:49	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=43BA1CFE562C52AD4F418A87A0F4CAF4
+01:57:49	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=43BA1CFE562C52AD4F418A87A0F4CAF4 and https://upcs.com/?wordfence_lh=1&hid=43BA1CFE562C52AD4F418A87A0F4CAF4
+01:57:49	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=43BA1CFE562C52AD4F418A87A0F4CAF4 to https://upcs.com/?wordfence_lh=1&hid=43BA1CFE562C52AD4F418A87A0F4CAF4
+01:59:50	Warning: 	Moved Permanently for https://upcs.com/?p=321431
+01:59:50	Warning: 	File has moved from https://upcs.com/?p=321431 to https://upcs.com/blog/do-i-need-to-buy-a-upc-barcode/
+01:59:50	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=C6DF56007E1FBAFD7F83B07EDF7EA4DB
+01:59:50	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=C6DF56007E1FBAFD7F83B07EDF7EA4DB and https://upcs.com/?wordfence_lh=1&hid=C6DF56007E1FBAFD7F83B07EDF7EA4DB
+01:59:50	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=C6DF56007E1FBAFD7F83B07EDF7EA4DB to https://upcs.com/?wordfence_lh=1&hid=C6DF56007E1FBAFD7F83B07EDF7EA4DB
+01:59:52	Warning: 	Moved Permanently for https://upcs.com/?p=322496
+01:59:52	Warning: 	File has moved from https://upcs.com/?p=322496 to https://upcs.com/blog/what-is-a-upc-ean-code/
+01:59:52	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=56A1B36F6DEE78067E9240ECE856E7E8
+01:59:52	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=56A1B36F6DEE78067E9240ECE856E7E8 and https://upcs.com/?wordfence_lh=1&hid=56A1B36F6DEE78067E9240ECE856E7E8
+01:59:52	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=56A1B36F6DEE78067E9240ECE856E7E8 to https://upcs.com/?wordfence_lh=1&hid=56A1B36F6DEE78067E9240ECE856E7E8
+01:59:53	Warning: 	Moved Permanently for https://upcs.com/?p=322501
+01:59:53	Warning: 	File has moved from https://upcs.com/?p=322501 to https://upcs.com/blog/do-i-need-to-register-my-upc-codes/
+01:59:53	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=36DFAE27730FCBFA1FA7ADEE3D6BB0EC
+01:59:53	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=36DFAE27730FCBFA1FA7ADEE3D6BB0EC and https://upcs.com/?wordfence_lh=1&hid=36DFAE27730FCBFA1FA7ADEE3D6BB0EC
+01:59:53	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=36DFAE27730FCBFA1FA7ADEE3D6BB0EC to https://upcs.com/?wordfence_lh=1&hid=36DFAE27730FCBFA1FA7ADEE3D6BB0EC
+02:00:08	Warning: 	Moved Permanently for https://upcs.com/?p=322503
+02:00:08	Warning: 	File has moved from https://upcs.com/?p=322503 to https://upcs.com/blog/how-to-generate-a-upc-code-for-amazon/
+02:00:08	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=FA427C436C3FAB378A17958BC6075F2E
+02:00:08	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=FA427C436C3FAB378A17958BC6075F2E and https://upcs.com/?wordfence_lh=1&hid=FA427C436C3FAB378A17958BC6075F2E
+02:00:08	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=FA427C436C3FAB378A17958BC6075F2E to https://upcs.com/?wordfence_lh=1&hid=FA427C436C3FAB378A17958BC6075F2E
+02:02:09	Warning: 	Moved Permanently for https://upcs.com/?p=321454
+02:02:09	Warning: 	File has moved from https://upcs.com/?p=321454 to https://upcs.com/blog/how-do-i-buy-a-barcode/
+02:02:09	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=26E3EE0E7DF1BB32B1F8D36F05F92A8C
+02:02:09	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=26E3EE0E7DF1BB32B1F8D36F05F92A8C and https://upcs.com/?wordfence_lh=1&hid=26E3EE0E7DF1BB32B1F8D36F05F92A8C
+02:02:09	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=26E3EE0E7DF1BB32B1F8D36F05F92A8C to https://upcs.com/?wordfence_lh=1&hid=26E3EE0E7DF1BB32B1F8D36F05F92A8C
+02:02:11	Warning: 	Moved Permanently for https://upcs.com/?p=321419
+02:02:11	Warning: 	File has moved from https://upcs.com/?p=321419 to https://upcs.com/blog/how-do-you-buy-upc-codes/
+02:02:11	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=7416AA45D72A1FE8B8DDA78D171DA9E5
+02:02:11	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=7416AA45D72A1FE8B8DDA78D171DA9E5 and https://upcs.com/?wordfence_lh=1&hid=7416AA45D72A1FE8B8DDA78D171DA9E5
+02:02:11	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=7416AA45D72A1FE8B8DDA78D171DA9E5 to https://upcs.com/?wordfence_lh=1&hid=7416AA45D72A1FE8B8DDA78D171DA9E5
+02:02:11	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=E22B47FBFF2650DB9B763457F4469C60
+02:02:11	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=E22B47FBFF2650DB9B763457F4469C60 and https://upcs.com/?wordfence_lh=1&hid=E22B47FBFF2650DB9B763457F4469C60
+02:02:11	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=E22B47FBFF2650DB9B763457F4469C60 to https://upcs.com/?wordfence_lh=1&hid=E22B47FBFF2650DB9B763457F4469C60
+02:02:13	Warning: 	Moved Permanently for https://upcs.com/blog/author/help/
+02:02:13	Warning: 	File has moved from https://upcs.com/blog/author/help/ to https://upcs.com
+02:02:13	Warning: 	Moved Permanently for upcs.com/?wordfence_lh=1&hid=9E10F61DD66D49DCFD4EBB5D60AFB67B
+02:02:13	Warning: 	Redirected link is identical because of 'URL Hack' option: upcs.com/?wordfence_lh=1&hid=9E10F61DD66D49DCFD4EBB5D60AFB67B and https://upcs.com/?wordfence_lh=1&hid=9E10F61DD66D49DCFD4EBB5D60AFB67B
+02:02:13	Warning: 	File has moved from upcs.com/?wordfence_lh=1&hid=9E10F61DD66D49DCFD4EBB5D60AFB67B to https://upcs.com/?wordfence_lh=1&hid=9E10F61DD66D49DCFD4EBB5D60AFB67B
+02:02:26	Warning: 	Found for https://upcs.com/product-category/upc-codes/?add-to-cart=205
+02:02:26	Warning: 	File has moved from https://upcs.com/product-category/upc-codes/?add-to-cart=205 to https://upcs.com/cart/
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 45 seconds : 649 links scanned, 499 files written (24998991 bytes overall) [14842327 bytes received at 11921 bytes/sec], 14501812 bytes transferred using HTTP compression in 345 files, ratio 23%, 7.2 requests per connection
+(3 errors, 356 warnings, 0 messages)

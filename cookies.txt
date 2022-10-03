@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+upcs.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+upcs.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_e1a032d8f6d807dbc930d0f36d52517e	bc29778b17c30e7fd045275723f28183%7C%7C1659076912%7C%7C1659073312%7C%7Cca26ceace465ca393fd1a21cc41a81c6
+upcs.com	TRUE	/	FALSE	1999999999	PHPSESSID	760136o0n2fai6he7gun9v1se9
+upcs.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	440c99a9b38bff4314e355bc28aa2e49
+upcs.com	TRUE	/	FALSE	1999999999	iTMcyZqhajvEu	%2Ap%5DJcvx.Qu74I_
+upcs.com	TRUE	/	FALSE	1999999999	XAcVnDOGhrUJx	aZ%5BQYR_cPmxuA
+upcs.com	TRUE	/	FALSE	1999999999	JaRcyvlK	GNjTSPkOLZs
+upcs.com	TRUE	/	FALSE	1999999999	nbaSCzOkRiEXFoNY	B1hEY%400HycZk6_f
+
